@@ -27,3 +27,6 @@ I build practical systems across **AI / machine learning**, **web security**, an
 
 ### 🌐 Languages
 Arabic · English · Russian
+
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salman%20Mugharbel-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-mugharbel-1b0254441)
